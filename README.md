@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi ! 👋 I'm Santo<br><br>Welcome to my GitHub profile! I'm passionate about Website development, Android development and AI. I love learning new technologies and building exciting projects.<br><br>🚀 About Me<br><br>🎓 Currently studying Bali State Polythecnic<br><br>💻 Learning PHP, JS, Flutter, Java<br><br>🌍 Interested in AI and open-source<br><br>Feel free to explore my repositories and connect with me! 🚀
+Hi ! 👋 I'm Santo<br><br>Welcome to my GitHub profile! I'm passionate about Website development, Android development and AI. I love learning new technologies and building exciting projects.<br><br>🚀 About Me<br>🎓 Currently studying Bali State Polythecnic<br>💻 Learning PHP, JS, Flutter, Java<br>🌍 Interested in AI and open-source<br><br>Feel free to explore my repositories and connect with me! 🚀
 
 
 ## 🌐 Socials:
@@ -10,9 +10,6 @@ Hi ! 👋 I'm Santo<br><br>Welcome to my GitHub profile! I'm passionate about We
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=menchikatsu-sandwich&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=menchikatsu-sandwich&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@SantoEvoriusJehu) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
